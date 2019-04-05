@@ -23,6 +23,7 @@ end
   end
   
   def self.artists
+    
     @@artists.uniq!
   end
   
